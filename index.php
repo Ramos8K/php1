@@ -4,4 +4,6 @@
 
       echo "Hellow claytonnn";
 
+      echo "Hello Clayton~";
+
   ?> 
